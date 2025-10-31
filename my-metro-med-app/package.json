@@ -1,0 +1,35 @@
+{
+  "name": "my-metro-med-app",
+  "version": "1.0.0",
+  "description": "A modern Metro UI application focused on medical content.",
+  "homepage": "https://metinciris.github.io/metinciris.com.tr",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "react",
+    "metro-ui",
+    "medical",
+    "application"
+  ],
+  "author": "Metin Ciris",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0",
+    "styled-components": "^5.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "gh-pages": "^5.0.0"
+  }
+}

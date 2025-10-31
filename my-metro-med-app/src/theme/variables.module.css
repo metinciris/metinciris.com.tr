@@ -1,0 +1,11 @@
+:root {
+  --primary-color: #4CAF50; /* Ana renk */
+  --secondary-color: #FFC107; /* İkincil renk */
+  --background-color: #F5F5F5; /* Arka plan rengi */
+  --card-background: #FFFFFF; /* Kart arka plan rengi */
+  --text-color: #212121; /* Metin rengi */
+  --border-color: #E0E0E0; /* Kenar rengi */
+  --hover-color: #D32F2F; /* Hover rengi */
+  --font-family: 'Arial', sans-serif; /* Yazı tipi */
+  --font-size: 16px; /* Yazı boyutu */
+}
